@@ -1,0 +1,110 @@
+*{
+ margin:0;
+  padding: p;
+}
+body,html{
+width: 100%;
+height: 20%;
+box-sizing: border-box;
+
+}
+nav {
+ background-color:rgba(0,0,0,0.7);
+ height: 60px;
+}
+nav label.logo{
+  color: white;
+  font-family: Fantasy;
+  margin:30px;
+  font-size: 35px
+  
+
+}
+
+
+  container ul li a:hover{background-color: black ;
+   transition-delay:0.001s;
+  }
+
+container ul li a{ color:white;
+text-transform: capitalize;
+text-decoration: none;
+
+}
+
+container ul li{
+  display:inline-block;
+  float: right;
+  margin:12px;
+  margin-top: -20px;
+}
+
+
+  
+ body{ 
+background-image: url("/imag/IMG_20241014_171011_941.jpg");
+background-repeat: no-repeat;
+  outline: none;
+  background-size: 430px 810px;
+
+ 
+}
+
+
+form{
+  display: flex;
+flex-direction: column;
+height: 240px;
+width: 250px;
+position: center;
+align-items: center;
+margin: auto;
+margin-top:200px;
+background-color:rgba(0,0,0,0.5);
+box-shadow: inset -5px -5px rgba(0,0,0,0.5);
+border-radius: 20px
+}
+form h1{
+  color:white;
+  font-family: Fantasy;
+ 
+}
+/* boxes */
+.box
+{
+  padding: 9px;
+  margin:2px;
+  border-radius: 12px;
+  width: 200px;
+  outline: none;
+  background-color:rgba(0,0,0,0.5);
+  color:white;
+  font-family: Fantasy;
+  font-size:1rem
+  
+}
+button
+{padding: 9px;
+  margin:2px;
+  border-radius: 12px;
+  outline: none;
+  background-color:rgba(0,0,0,0.5);
+  margin-top:-10px;
+  height: 40px;
+  width: 100px;
+  margin:1px;
+   font-family: Fantasy;
+color: white;
+font-size:1rem  }
+
+
+  
+  
+}
+
+
+
+
+
+
+
